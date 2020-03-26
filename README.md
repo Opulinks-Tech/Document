@@ -1,7 +1,7 @@
 ## 文档分类表
 
 
-|     分类     |   內容包含    |     其他    |
+|     分类     |   內容包含    |     延伸链结    |
 |--------------|--------------|:-----------:|
 |  **DataSheet**  | OPL1000 nonNDA/ OPL1200 nonNDA  |   N/A   |
 |  **Demo**       | SDK示例工程演示 |  :book:[源码打包](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/wiki/reference_demo) |
