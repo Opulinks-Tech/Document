@@ -1,4 +1,4 @@
-OPL1000系列  :point_right:【OPL1000】 | 【OPL1200】  
+OPL1000系列: 【OPL1000】 | 【OPL1200】  
 
 ### OPL1000
     - Wi-Fi 11b 至11Mbps
