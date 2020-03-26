@@ -1,15 +1,14 @@
-## OPL1000系列: 【OPL1000】 | 【OPL1200】  
+## 连接云端的物联网产品参考文檔 
 
-### OPL1000
-- Wi-Fi 11b 至11Mbps  
-- BT 5.0 le + 2Mbps 数据速率   
-- 出色的射频性能  
-- 超低功耗  
-- 双 ARM 核心 M0/m3  
-- 广泛的外围设备  
-- 集成 PMU  
-- 完整的硬件安全加密引擎  
-- 直流模拟输入    
+### Ali云
+- 传感器  
+:books:参考设计[[前往]](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Ali-Cloud-with-MQTT)  
 
-### OPL1200
-- 基于OPL1000芯片上，内置flash 
+- 智能灯  
+:books:参考设计[[前往]](https://github.com/Opulinks-Tech/OPL1000A2-Light-Control-Reference-Code-Ali-Cloud-with-MQTT)  
+
+### AWS云
+:books:参考设计[[前往]](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Aws-Cloud-with-MQTT)  
+
+### Coolkit
+:books:参考设计[[前往]](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Coolkit-Cloud-with-HTTPS)
