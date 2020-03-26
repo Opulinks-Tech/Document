@@ -5,7 +5,7 @@
 
 ## 2. OTA_WIFI 
 演示如何在PC上设置TCP服务器并透过WIFI完成OTA  
-:book: [[補充]OPL1000 通过局域网WIFI空中升级固演示](https://github.com/Opulinks-Tech/OPL1000A2-SDK/tree/master/Demo/OTA_WIFI)  
+:book: [[補充]OPL1000 通过局域网WIFI空中升级固件演示](https://github.com/Opulinks-Tech/OPL1000A2-SDK/tree/master/Demo/OTA_WIFI)  
 
 ## 3. TCP_Client  
 演示OPL1000（TCP客户端）和TCP服务器端之间的TCP数据通信，在启用OPL1000智能睡眠工作模式时  
